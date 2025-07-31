@@ -12,3 +12,23 @@
   min-height: 100vh;
   margin: 0 auto;
 }
+
+.App h1{
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  margin-top: 0px;
+}
+
+hr{
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  width: 100%;
+}
+
+
+
+

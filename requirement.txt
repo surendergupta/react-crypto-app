@@ -1,0 +1,4 @@
+npm install axios
+npm install react-toastify
+npm install react-loader-spinner
+npm install lodash.debounce
