@@ -4,7 +4,7 @@ A sleek and responsive cryptocurrency market viewer built with **React**. Displa
 
 ## 🌐 Live Demo
 
-> 🔗 Live App 👉 [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+> 🔗 Live App 👉 [https://react-crypto-app-zeta-gilt.vercel.app/](https://react-crypto-app-zeta-gilt.vercel.app/)
 
 ---
 
@@ -64,9 +64,11 @@ Now open http://localhost:5173 in your browser.
 ---
 
 ## 🔗 API Reference
-**CoinGecko API**
+- **CoinGecko API**
 > [https://api.coingecko.com/api/v3/coins/markets](https://api.coingecko.com/api/v3/coins/markets)
-Rate-limited. Use responsibly.
+
+- Rate-limited. 
+- Use responsibly.
 
 ---
 
@@ -93,7 +95,7 @@ src/
 ## 📄 License
 This project is open-source and available under the MIT License.
 
-===
+---
 
 ## 🧑‍💻 Author
 Made with ❤️ by [Surender Gupta](https://linkedin.com/in/surender-gupta)
